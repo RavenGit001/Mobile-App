@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raven\\source\\repos\\Thesis.Mobile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF02FDEC-E7FB-5C22-491D-E20FA8A86C97}|Thesis.Mobile.csproj|c:\\users\\raven\\source\\repos\\thesis.mobile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF02FDEC-E7FB-5C22-491D-E20FA8A86C97}|Thesis.Mobile.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF02FDEC-E7FB-5C22-491D-E20FA8A86C97}|Thesis.Mobile.csproj|c:\\users\\raven\\source\\repos\\thesis.mobile\\pages\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF02FDEC-E7FB-5C22-491D-E20FA8A86C97}|Thesis.Mobile.csproj|solutionrelative:pages\\dashboardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF02FDEC-E7FB-5C22-491D-E20FA8A86C97}|Thesis.Mobile.csproj|c:\\users\\raven\\source\\repos\\thesis.mobile\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF02FDEC-E7FB-5C22-491D-E20FA8A86C97}|Thesis.Mobile.csproj|solutionrelative:viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF02FDEC-E7FB-5C22-491D-E20FA8A86C97}|Thesis.Mobile.csproj|c:\\users\\raven\\source\\repos\\thesis.mobile\\viewmodels\\detectionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF02FDEC-E7FB-5C22-491D-E20FA8A86C97}|Thesis.Mobile.csproj|solutionrelative:viewmodels\\detectionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF02FDEC-E7FB-5C22-491D-E20FA8A86C97}|Thesis.Mobile.csproj|c:\\users\\raven\\source\\repos\\thesis.mobile\\pages\\dashboardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF02FDEC-E7FB-5C22-491D-E20FA8A86C97}|Thesis.Mobile.csproj|solutionrelative:pages\\dashboardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF02FDEC-E7FB-5C22-491D-E20FA8A86C97}|Thesis.Mobile.csproj|c:\\users\\raven\\source\\repos\\thesis.mobile\\pages\\detectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF02FDEC-E7FB-5C22-491D-E20FA8A86C97}|Thesis.Mobile.csproj|solutionrelative:pages\\detectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF02FDEC-E7FB-5C22-491D-E20FA8A86C97}|Thesis.Mobile.csproj|c:\\users\\raven\\source\\repos\\thesis.mobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FF02FDEC-E7FB-5C22-491D-E20FA8A86C97}|Thesis.Mobile.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Raven\\source\\repos\\Thesis.Mobile\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\Raven\\source\\repos\\Thesis.Mobile\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAuwIQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T18:36:37.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Raven\\source\\repos\\Thesis.Mobile\\Pages\\DashboardPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\DashboardPage.xaml",
+              "ToolTip": "C:\\Users\\Raven\\source\\repos\\Thesis.Mobile\\Pages\\DashboardPage.xaml*",
+              "RelativeToolTip": "Pages\\DashboardPage.xaml*",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAYwG4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-27T17:01:30.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Raven\\source\\repos\\Thesis.Mobile\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Raven\\source\\repos\\Thesis.Mobile\\App.xaml*",
+              "RelativeToolTip": "App.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-27T21:01:58.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Raven\\source\\repos\\Thesis.Mobile\\Pages\\DashboardPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\DashboardPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Raven\\source\\repos\\Thesis.Mobile\\Pages\\DashboardPage.xaml.cs",
+              "RelativeToolTip": "Pages\\DashboardPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T16:58:06.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetectionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Raven\\source\\repos\\Thesis.Mobile\\ViewModels\\DetectionViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\DetectionViewModel.cs",
+              "ToolTip": "C:\\Users\\Raven\\source\\repos\\Thesis.Mobile\\ViewModels\\DetectionViewModel.cs",
+              "RelativeToolTip": "ViewModels\\DetectionViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T16:00:34.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetectionPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Raven\\source\\repos\\Thesis.Mobile\\Pages\\DetectionPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\DetectionPage.xaml",
+              "ToolTip": "C:\\Users\\Raven\\source\\repos\\Thesis.Mobile\\Pages\\DetectionPage.xaml",
+              "RelativeToolTip": "Pages\\DetectionPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-27T16:58:20.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Raven\\source\\repos\\Thesis.Mobile\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\Raven\\source\\repos\\Thesis.Mobile\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-23T20:43:34.085Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

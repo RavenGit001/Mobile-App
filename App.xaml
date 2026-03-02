@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Application xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Thesis.Mobile.App">
+    <Application.Resources>
+        <ResourceDictionary>
+
+            <!-- Colors -->
+            <LinearGradientBrush x:Key="BreadBackground" StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="#FFFDF5" Offset="0.1" />
+                <GradientStop Color="#F7E6CA" Offset="1.0" />
+            </LinearGradientBrush>
+            <Color x:Key="PrimaryTextColor">#212121</Color>
+            <Color x:Key="SecondaryTextColor">#424242</Color>
+            <Color x:Key="CardBackground">#F2E9E1</Color>
+            <Color x:Key="SystemStatusBackground">#C1E3C5</Color>
+            <Color x:Key="FABColor">#5C8ABE</Color>
+
+            <!-- Spacing Multiples (8dp Rule) -->
+            <x:Double x:Key="PaddingSmall">8</x:Double>
+            <x:Double x:Key="PaddingMedium">16</x:Double>
+            <x:Double x:Key="PaddingLarge">24</x:Double>
+
+            <!-- Shadow Style for Border -->
+            <Style x:Key="CardShadowStyle" TargetType="Border">
+                <Setter Property="Shadow">
+                    <Setter.Value>
+                        <Shadow Brush="#22000000" Radius="8" Offset="2,2" Opacity="0.25"/>
+                    </Setter.Value>
+                </Setter>
+                <Setter Property="StrokeShape">
+                    <Setter.Value>
+                        <RoundRectangle CornerRadius="16"/>
+                    </Setter.Value>
+                </Setter>
+                <Setter Property="Padding" Value="{StaticResource PaddingMedium}"/>
+            </Style>
+
+            <!-- Header Text Style -->
+            <Style x:Key="HeaderTextStyle" TargetType="Label">
+                <Setter Property="FontSize" Value="20"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="TextColor" Value="{StaticResource PrimaryTextColor}"/>
+            </Style>
+
+            <!-- Value Text (Temperature/Humidity) -->
+            <Style x:Key="ValueTextStyle" TargetType="Label">
+                <Setter Property="FontSize" Value="24"/>
+                <Setter Property="TextColor" Value="{StaticResource PrimaryTextColor}"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+            </Style>
+
+            <!-- Label Text (Temperature/Humidity Label) -->
+            <Style x:Key="LabelTextStyle" TargetType="Label">
+                <Setter Property="FontSize" Value="14"/>
+                <Setter Property="TextColor" Value="{StaticResource SecondaryTextColor}"/>
+            </Style>
+
+            <!-- Bread Card Text -->
+            <Style x:Key="BreadTitleStyle" TargetType="Label">
+                <Setter Property="FontSize" Value="14"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="TextColor" Value="{StaticResource PrimaryTextColor}"/>
+            </Style>
+            <Style x:Key="BreadStatusStyle" TargetType="Label">
+                <Setter Property="FontSize" Value="12"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="TextColor" Value="{StaticResource PrimaryTextColor}"/>
+                <Setter Property="CharacterSpacing" Value="2"/>
+            </Style>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

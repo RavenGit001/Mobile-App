@@ -1,0 +1,12 @@
+C:\Users\Raven\source\repos\Thesis.Mobile\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Thesis.Mobile.csproj.AssemblyReference.cache
+C:\Users\Raven\source\repos\Thesis.Mobile\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauiimage.inputs
+C:\Users\Raven\source\repos\Thesis.Mobile\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauifont.inputs
+C:\Users\Raven\source\repos\Thesis.Mobile\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauisplash.inputs
+C:\Users\Raven\source\repos\Thesis.Mobile\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauimanifest.stamp
+C:\Users\Raven\source\repos\Thesis.Mobile\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.g.i.cs
+C:\Users\Raven\source\repos\Thesis.Mobile\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.g.cs
+C:\Users\Raven\source\repos\Thesis.Mobile\obj\Debug\net10.0-windows10.0.19041.0\win-x64\XamlTypeInfo.g.cs
+C:\Users\Raven\source\repos\Thesis.Mobile\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.xaml
+C:\Users\Raven\source\repos\Thesis.Mobile\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.xbf
+C:\Users\Raven\source\repos\Thesis.Mobile\obj\Debug\net10.0-windows10.0.19041.0\win-x64\XamlSaveStateFile.xml
+C:\Users\Raven\source\repos\Thesis.Mobile\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Thesis.Mobile.GeneratedMSBuildEditorConfig.editorconfig

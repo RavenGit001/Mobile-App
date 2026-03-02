@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:vm="clr-namespace:Thesis.Mobile.ViewModels"
+    x:Class="Thesis.Mobile.Pages.DetectionPage"
+    Title="Detection Results">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="20">
+            <!-- Chamber Snapshot -->
+            <Label 
+                Text="Chamber Snapshot"
+                FontSize="20"
+                FontAttributes="Bold" />
+
+            <Image 
+                HeightRequest="250"
+                Aspect="AspectFill"
+                BackgroundColor="LightGray"
+                Source="{Binding ImageUrl}" />
+
+            <Label 
+                Text="Probability Results"
+                FontSize="20"
+                FontAttributes="Bold" />
+
+            <!-- Bread Results List -->
+            <CollectionView ItemsSource="{Binding BreadResults}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame 
+                            BorderColor="Gray" 
+                            CornerRadius="10" 
+                            Padding="10" 
+                            Margin="0,5">
+                            <StackLayout>
+                                <Label Text="{Binding BreadType}" FontAttributes="Bold" FontSize="16"/>
+                                <Label Text="{Binding Probability, StringFormat='Probability: {0:F1}%'}"/>
+                                <Label Text="{Binding Status}" TextColor="{Binding Color}"/>
+                            </StackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
